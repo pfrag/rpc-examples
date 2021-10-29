@@ -1,0 +1,10 @@
+.env
+.venv
+env/
+venv/
+.eps
+__pycache__/
+*.py[cod]
+*$py.class
+out
+
